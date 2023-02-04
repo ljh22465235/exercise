@@ -1,1 +1,1 @@
-# File A
+print(1+1)
